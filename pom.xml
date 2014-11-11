@@ -15,6 +15,7 @@
 
   <name>Maven BOMs</name>
   <description>A set of Maven BOM (bill of material) projects.</description>
+  <url>https://github.com/ctrimble/maven-boms</url>
 
   <modules>
     <module>baseline-unit</module>

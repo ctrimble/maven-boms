@@ -12,7 +12,6 @@
   <version>1-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>Baseline JUnit BOM</name>
-  <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
