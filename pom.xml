@@ -9,13 +9,13 @@
   </parent>
 
   <groupId>com.xiantrimble.maven</groupId>
-  <artifactId>maven-boms</artifactId>
+  <artifactId>maven-imports</artifactId>
   <version>1-SNAPSHOT</version>
   <packaging>pom</packaging>
 
-  <name>Maven BOMs</name>
-  <description>A set of Maven BOM (bill of material) projects.</description>
-  <url>https://github.com/ctrimble/maven-boms</url>
+  <name>Maven Imports</name>
+  <description>A set of Maven POMs for importing common dependencies.</description>
+  <url>https://github.com/ctrimble/maven-imports</url>
 
   <modules>
     <module>baseline-unit</module>

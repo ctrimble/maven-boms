@@ -4,14 +4,14 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>com.xiantrimble.maven</groupId>
-    <artifactId>maven-boms</artifactId>
+    <artifactId>maven-imports</artifactId>
     <version>1-SNAPSHOT</version>
   </parent>
   <groupId>com.xiantrimble.maven</groupId>
-  <artifactId>baseline-unit-bom</artifactId>
+  <artifactId>baseline-unit-deps</artifactId>
   <version>1-SNAPSHOT</version>
   <packaging>pom</packaging>
-  <name>Baseline JUnit BOM</name>
+  <name>Baseline JUnit Dependencies</name>
   <dependencyManagement>
   <dependencies>
     <dependency>
